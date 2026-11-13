@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="0.0017345">
+    <testsuite name="tests/station01.test.ts" timestamp="2026-11-12T14:49:11.080Z" hostname="kumakishinnoMacBook-Air.local" tests="1" failures="0" errors="0" skipped="0" time="0.0017345">
+        <testcase classname="tests/station01.test.ts" name="Station01 &gt; リポジトリをクローンできている" time="0.001042209">
+            <system-out>
+Pass station01.
+
+            </system-out>
+        </testcase>
+    </testsuite>
+</testsuites>
